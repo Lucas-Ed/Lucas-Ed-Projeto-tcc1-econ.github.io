@@ -88,7 +88,7 @@ knitr::include_graphics("img/logo.fw.png")
 </p>
 [AZEVEDO, 2019](https://bit.ly/3vPIb9U)
 
-[BRAGA, 2019](https://bit.ly/2TQH9x0)
+[BRAGA, 2019](https://bit.ly/35I710z)
 
 [CÂNDIDO, 2011](https://bit.ly/3qnGiQv )
 
@@ -96,7 +96,8 @@ knitr::include_graphics("img/logo.fw.png")
 
 [GRUMPENMACHER, 2019](https://bit.ly/3wSg6zX)
 
-[LIMA, 2018](https://bit.ly/3wmZIXW)
+[LIMA, 2018](https://monografias.ufrn.br/jspui/bitstream/123456789/7328/1/A%20utiliza%c3
+%a7%c3%a3o%20das%20criptomoedas_Lima_2018.pdf)
 
 [MACIEL, 2018](https://bit.ly/3x2asv2)
 ---
@@ -107,7 +108,9 @@ knitr::include_graphics("img/logo.fw.png")
 <p align="center">                        <!--largura--> <!--Altura-->
     <img src="img/branco.png" alt="Image" width="100" height="150" />
 </p>
-[MEDEIROS, 2020](https://bit.ly/3vp1XIS)
+[MEDEIROS, 2020](https://repositorio.animaeducacao.com.br
+/bitstream/ANIMA/10956/1/TCC%20Gabriel%20Martins%20Medeiros%20-%20Vers%C3%A3o%20Final-2.pdf
+)
 
 [MUNARETTO, 2019](https://bit.ly/2TZxa8s)
 

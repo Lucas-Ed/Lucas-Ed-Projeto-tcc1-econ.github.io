@@ -81,6 +81,18 @@ knitr::include_graphics("img/logo.fw.png")
 knitr::include_graphics("img/logo.fw.png")
 
 ```
+# Cronograma
+<p align="center">                        <!--largura--> <!--Altura-->
+    <img src="img/branco.png" alt="Image" width="200" height="30" />
+</p>
+<p align="center">                        <!--largura--> <!--Altura-->
+    <img src="img/cron.png" alt="Image" width="880" height="250" />
+</p>
+---
+```{r echo=FALSE, fig.align='right', out.width="15%"}
+knitr::include_graphics("img/logo.fw.png")
+
+```
 # Links sobre o tema
 [Fundo imobilíario Tokenizado](https://bit.ly/3qvp1oD)
 

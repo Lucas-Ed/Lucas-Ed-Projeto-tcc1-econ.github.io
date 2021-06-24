@@ -49,7 +49,7 @@ knitr::include_graphics("img/logo.fw.png")
 </p>
 ---
 <p align="left">                        <!--largura--> <!--Altura-->
-    <img src="img/rev.png" alt="Image" width="850" height="600" />
+    <img src="img/rev.png" alt="Image" width="800" height="600" />
 </p>
 
 
@@ -76,6 +76,23 @@ knitr::include_graphics("img/logo.fw.png")
 </p>
 
 [Projeto TCC1](https://github.com/Lucas-Ed/Lucas-Ed-Projeto-tcc1-econ.github.io/blob/master/Lucas%20Eduardo%20Rosolem.pdf)
+---
+```{r echo=FALSE, fig.align='right', out.width="15%"}
+knitr::include_graphics("img/logo.fw.png")
+
+```
+# Links sobre o tema
+[Fundo imobilíario Tokenizado](https://bit.ly/3qvp1oD)
+
+[Cruzeiro Token](https://bit.ly/2U4HBYo)
+
+[Plataforma de DeFi Compound](https://bit.ly/3jaVJdb)
+
+[Exchange Centralizada](https://bit.ly/3xLbvzu)
+
+[Exchange Descentralizada Uniswap](https://app.uniswap.org/#/swap)
+
+[Derivativos por smart contract](https://bit.ly/3gR99K0)
 ---
 ```{r echo=FALSE, fig.align='right', out.width="15%"}
 knitr::include_graphics("img/logo.fw.png")
